@@ -10,7 +10,7 @@ const publicDirPath = path.join(__dirname, "../public");
 app.use(express.static(publicDirPath));
 
 require("./routes/html-routes")(app);
-// require("./routes/api-routes")(app);
+require("./routes/api-routes")(app);
 
 app.listen(PORT, () => {
 	console.log(`Server listening on port ${PORT}`);
