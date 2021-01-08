@@ -8,7 +8,7 @@ This application allows users to create and save notes to keep track of informat
 
 ## Table of Contents
 
-- [Views](#vies)
+- [Views](#views)
 - [Technologies](#technologies)
 - [Tests](#tests)
 - [Questions](#questions)
