@@ -35,6 +35,7 @@ This application allows users to create and save notes to keep track of informat
 - JavaScript, jQuery
 - HTML
 - CSS, Bootstrap
+- Jest
 
 ## Tests
 
