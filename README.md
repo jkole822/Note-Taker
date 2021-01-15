@@ -2,6 +2,8 @@
 
 ![license](https://img.shields.io/static/v1?label=license&message=MIT&color=green&style=for-the-badge)
 
+[Deployed Application](https://jkg-note-taker.herokuapp.com/)
+
 ## Description
 
 This application allows users to create and save notes to keep track of information. Links to saved notes are displayed alongside the notepad which, when clicked, renders the corresponding content to the notepad as read-only. Users can also choose to delete notes when they are no longer needed.
